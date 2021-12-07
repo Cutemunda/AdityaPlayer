@@ -38,20 +38,20 @@ async def start_(client: Client, message: Message):
 💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴀᴅɪᴛʏᴀ ʜᴀʟᴅᴇʀ](https://t.me/adityahalder)
-┣★ ᴜᴘᴅᴀᴛᴇs : [ᴀᴅɪᴛʏᴀ sᴇʀᴠᴇʀ](https://t.me/adityaserver)
-┣★ sᴜᴘᴘᴏʀᴛ : [ᴀᴅɪᴛʏᴀ ᴅɪsᴄᴜs](https://t.me/adityadiscus)
-┣★ sᴏᴜʀᴄᴇ › : [ɢᴇᴛ ʀᴇᴘᴏ ʜᴇʀᴇ](https://github.com/mradityaxd/adityaplayer)
+┣★ ᴄʀᴇᴀᴛᴏʀ : [｡ﾟ❃ུ۪｡❀ུ۪𝐇𝔸𝐌𝕊𝐀ℝ ❁ུ۪ ❀ུ۪ ﾟ｡](https://t.me/international_english_chat1)
+┣★ ᴜᴘᴅᴀᴛᴇs : [｡ﾟ❃ུ۪｡❀ུ۪𝐇𝔸𝐌𝕊𝐀ℝ ❁ུ۪ ❀ུ۪ ﾟ｡](https://t.me/online_chatting_group_2)
+┣★ sᴜᴘᴘᴏʀᴛ : [｡ﾟ❃ུ۪｡❀ུ۪𝐇𝔸𝐌𝕊𝐀ℝ ❁ུ۪ ❀ུ۪ ﾟ｡](https://t.me/international_english_chat1)
+┣★ sᴏᴜʀᴄᴇ › : [｡ﾟ❃ུ۪｡❀ུ۪𝐇𝔸𝐌𝕊𝐀ℝ ❁ུ۪ ❀ུ۪ ﾟ｡](@hamsar241)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/adityahalder) ...
+ᴅᴍ ᴛᴏ ᴍʏ [bot owner](https://t.me/CUTE_B0Y_XD) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱ ➕", url=f"https://t.me/adityaserver")
+                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱ ➕", url=f"https://t.me/online_chatting_group_2")
                 ]
                 
            ]
@@ -68,7 +68,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/adityadiscus")
+                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/international_english_chat1")
                 ]
             ]
         ),
@@ -84,7 +84,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://github.com/mradityaxd/adityaplayer")
+                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"@CUTE_B0Y_XD")
                 ]
             ]
         ),
