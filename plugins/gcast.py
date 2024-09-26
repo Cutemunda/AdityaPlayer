@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By AdityaPlayer
+# Copyright (C) 2021 By ｡ﾟ❃ུ۪｡❀ུ۪𝐇𝔸𝐌𝕊𝐀ℝ ❁ུ۪ ❀ུ۪ ﾟ｡
 
 import asyncio
 from pyrogram import Client, filters
